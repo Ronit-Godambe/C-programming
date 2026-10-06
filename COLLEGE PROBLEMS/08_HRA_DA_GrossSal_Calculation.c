@@ -1,4 +1,4 @@
-#include <stdio.h> 
+    #include <stdio.h> 
 
 int main(){
     printf("\n\nThis program prints HA DA and Gross salary when Basic Salary is entered by the user");
